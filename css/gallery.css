@@ -1,0 +1,23 @@
+
+
+@font-face {
+    src:url('/fonts/lg.woff') format('woff');
+    font-family: "abcd";
+    font-style: normal;
+    font-weight: normal;
+  }
+
+  #aniimated-thumbnials{
+      font-family: 'abcd';
+  }
+
+  @media only screen and (max-width: 600px) {
+    .waterBtn{
+      margin-top: 13px;
+      margin-left: 73px;
+      display: block;
+    }
+  }
+
+
+  
